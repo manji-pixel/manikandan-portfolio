@@ -274,7 +274,7 @@ export default function ManikandanPortfolio() {
                   <div>
                     <div className="text-sm uppercase tracking-[0.32em] text-cyan-300">Developer Snapshot</div>
                     <h2 className="mt-2 text-2xl font-bold">Manikandan A</h2>
-                    <p className="text-slate-400">Backend / Full-Stack Developer</p>
+                    <p className="text-slate-400">SOfteware Engineer</p>
                   </div>
                   <div className="grid h-16 w-16 shrink-0 place-items-center rounded-2xl bg-gradient-to-br from-cyan-400 to-fuchsia-500 text-xl font-black text-slate-950 shadow-lg shadow-fuchsia-500/20">
                     MA
@@ -284,7 +284,7 @@ export default function ManikandanPortfolio() {
                 <div className="mt-6 grid gap-3 text-sm text-slate-300">
                   <div className="flex items-center gap-3 rounded-2xl border border-white/10 bg-white/5 px-4 py-3"><MapPin className="h-4 w-4 text-cyan-300" /> Cuddalore, Tamil Nadu</div>
                   <a href="mailto:amanikandan141@gmail.com" className="flex items-center gap-3 rounded-2xl border border-white/10 bg-white/5 px-4 py-3 transition hover:border-cyan-400/30"><Mail className="h-4 w-4 text-cyan-300" /> amanikandan141@gmail.com</a>
-                  <a href="tel:+919003993474" className="flex items-center gap-3 rounded-2xl border border-white/10 bg-white/5 px-4 py-3 transition hover:border-cyan-400/30"><Phone className="h-4 w-4 text-cyan-300" /> +91 9025583807</a>
+                  <a href="tel:+919025583807" className="flex items-center gap-3 rounded-2xl border border-white/10 bg-white/5 px-4 py-3 transition hover:border-cyan-400/30"><Phone className="h-4 w-4 text-cyan-300" /> +91 9025583807</a>
                   <a href="https://www.linkedin.com/in/manikandan-a-b15343241" target="_blank" rel="noreferrer" className="flex items-center gap-3 rounded-2xl border border-white/10 bg-white/5 px-4 py-3 transition hover:border-cyan-400/30 hover:text-cyan-300"><Linkedin className="h-4 w-4 text-cyan-300" /> LinkedIn Profile</a>
                   <a href="#" className="flex items-center gap-3 rounded-2xl border border-white/10 bg-white/5 px-4 py-3 transition hover:border-cyan-400/30 hover:text-cyan-300"><Github className="h-4 w-4 text-cyan-300" /> GitHub Profile</a>
                 </div>
