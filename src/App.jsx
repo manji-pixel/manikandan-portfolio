@@ -564,7 +564,7 @@ export default function ManikandanPortfolio() {
                 <a href="mailto:amanikandan141@gmail.com" className="rounded-2xl bg-cyan-400 px-6 py-3 text-sm font-semibold text-slate-950 shadow-2xl shadow-cyan-500/30 transition hover:-translate-y-0.5">
                   Email Me
                 </a>
-                <a href="tel:+919003993474" className="rounded-2xl border border-white/15 bg-white/5 px-6 py-3 text-sm font-semibold text-white transition hover:border-cyan-300/50 hover:bg-white/10">
+                <a href="tel:+919025583807" className="rounded-2xl border border-white/15 bg-white/5 px-6 py-3 text-sm font-semibold text-white transition hover:border-cyan-300/50 hover:bg-white/10">
                   Call Me
                 </a>
               </div>
