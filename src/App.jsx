@@ -177,7 +177,7 @@ export default function ManikandanPortfolio() {
             </div>
             <div>
               <div className="text-sm font-bold tracking-[0.24em] text-cyan-300">MANIKANDAN A</div>
-              <div className="text-xs text-slate-400">Full-Stack & Backend Developer</div>
+              <div className="text-xs text-slate-400">Software Engineer</div>
             </div>
           </a>
 
