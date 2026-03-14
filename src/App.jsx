@@ -70,7 +70,7 @@ export default function ManikandanPortfolio() {
 
   const experiences = [
     {
-      company: "Handletechlabs",
+      company: "Handletech labs",
       role: "Software Developer",
       duration: "Aug 2025 – Present",
       location: "Chennai",
@@ -82,7 +82,7 @@ export default function ManikandanPortfolio() {
       ],
     },
     {
-      company: "SAARC Masts Tech Pvt",
+      company: "SAARC Masts Tech",
       role: "Associate Back-End Engineer",
       duration: "Oct 2024 – Aug 2025",
       location: "Coimbatore",
@@ -94,7 +94,7 @@ export default function ManikandanPortfolio() {
       ],
     },
     {
-      company: "CodeTez Technologies",
+      company: "CodeTez Technologies ",
       role: "Software Engineer",
       duration: "Oct 2022 – Aug 2024",
       location: "Chennai",
@@ -282,9 +282,9 @@ export default function ManikandanPortfolio() {
                 </div>
 
                 <div className="mt-6 grid gap-3 text-sm text-slate-300">
-                  <div className="flex items-center gap-3 rounded-2xl border border-white/10 bg-white/5 px-4 py-3"><MapPin className="h-4 w-4 text-cyan-300" /> Namakkal, Tamil Nadu</div>
+                  <div className="flex items-center gap-3 rounded-2xl border border-white/10 bg-white/5 px-4 py-3"><MapPin className="h-4 w-4 text-cyan-300" /> Cuddalore, Tamil Nadu</div>
                   <a href="mailto:amanikandan141@gmail.com" className="flex items-center gap-3 rounded-2xl border border-white/10 bg-white/5 px-4 py-3 transition hover:border-cyan-400/30"><Mail className="h-4 w-4 text-cyan-300" /> amanikandan141@gmail.com</a>
-                  <a href="tel:+919003993474" className="flex items-center gap-3 rounded-2xl border border-white/10 bg-white/5 px-4 py-3 transition hover:border-cyan-400/30"><Phone className="h-4 w-4 text-cyan-300" /> +91 9003993474</a>
+                  <a href="tel:+919003993474" className="flex items-center gap-3 rounded-2xl border border-white/10 bg-white/5 px-4 py-3 transition hover:border-cyan-400/30"><Phone className="h-4 w-4 text-cyan-300" /> +91 9025583807</a>
                   <a href="https://www.linkedin.com/in/manikandan-a-b15343241" target="_blank" rel="noreferrer" className="flex items-center gap-3 rounded-2xl border border-white/10 bg-white/5 px-4 py-3 transition hover:border-cyan-400/30 hover:text-cyan-300"><Linkedin className="h-4 w-4 text-cyan-300" /> LinkedIn Profile</a>
                   <a href="#" className="flex items-center gap-3 rounded-2xl border border-white/10 bg-white/5 px-4 py-3 transition hover:border-cyan-400/30 hover:text-cyan-300"><Github className="h-4 w-4 text-cyan-300" /> GitHub Profile</a>
                 </div>
